@@ -78,7 +78,7 @@
   </div>
 
   <div class="project-item">
-    <a href="/video.mp4">
+    <a href="/">
       <span class="icon">📊</span> Tableau de bord de vente d'Adventure Work
     </a>
   </div>
