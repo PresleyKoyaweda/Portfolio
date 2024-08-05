@@ -48,6 +48,24 @@
   </div>
 
   <div class="project-item">
+    <a href="https://credit-scoring-project-presley-k-project.streamlit.app/">
+      <span class="icon">💳</span> Scoring de Crédit bancaire
+    </a>
+  </div> 
+
+  <div class="project-item">
+    <a href="https://my-portfolio-seven-rho-54.vercel.app/">
+      <span class="icon">👜</span> Développement du site web de mon portfolio
+    </a>
+  </div>
+
+  <div class="project-item">
+    <a href=>
+      <span class="icon">🔍</span> Algorithme de reconnaissance d'objet
+    </a>
+  </div> 
+
+  <div class="project-item">
     <a href="/market-basket-analysis">
       <span class="icon">🛒</span> Market Basket Analysis (MBA)
     </a>
@@ -62,18 +80,6 @@
   <div class="project-item">
     <a href="/detection-bogues-dupliques">
       <span class="icon">🐞</span> Détection de Rapports de Bogues Dupliqués
-    </a>
-  </div>
-
-  <div class="project-item">
-    <a href="https://credit-scoring-project-kajwc8eumojeqoh3jrmnbx.streamlit.app">
-      <span class="icon">💳</span> Scoring de Crédit bancaire
-    </a>
-  </div>
-
-  <div class="project-item">
-    <a href="https://credit-scoring-project-kajwc8eumojeqoh3jrmnbx.streamlit.app/">
-      <span class="icon">🔍</span> Algorithme de reconnaissance d'objet
     </a>
   </div>
 
