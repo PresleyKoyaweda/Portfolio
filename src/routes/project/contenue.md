@@ -16,8 +16,7 @@
   .project-item {
     border: 1px solid #ddd;
     border-radius: 10px;
-    padding: 20px;
-    width: 45%;
+    padding: 20px;    width: 45%;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     transition: background-color 0.3s;
@@ -61,31 +60,31 @@
 
   <div class="project-item">
     <a href=>
-      <span class="icon">🔍</span> Algorithme de reconnaissance d'objet
+      <span class="icon">🔍</span> La classification des déchets
     </a>
   </div> 
 
   <div class="project-item">
-    <a href="/market-basket-analysis">
+    <a href="/Market_Basket_Analysis">
       <span class="icon">🛒</span> Market Basket Analysis (MBA)
     </a>
   </div>
 
   <div class="project-item">
-    <a href="/analyse-reseaux-sociaux">
+    <a href="/Analyse_reseaux_sociaux">
       <span class="icon">🌐</span> Analyse des Réseaux Sociaux - Détection de Communautés et Influenceurs
     </a>
   </div>
 
   <div class="project-item">
-    <a href="/detection-bogues-dupliques">
+    <a href="/bug_detection_project">
       <span class="icon">🐞</span> Détection de Rapports de Bogues Dupliqués
     </a>
   </div>
 
   <div class="project-item">
-    <a href="/">
-      <span class="icon">📊</span> Tableau de bord de vente d'Adventure Work
+    <a href="/AdventureWorks.pdf">
+      <span class="icon">📊</span> Tableau de bord de vente des produits avec Power BI
     </a>
   </div>
 </div>

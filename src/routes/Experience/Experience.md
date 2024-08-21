@@ -16,7 +16,7 @@
     padding: 20px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     background: none; /* No background color */
-    transition: background-color 0.3s, box-shadow 0.3s; /* Add transition for smooth hover effect */
+    transition: background-color 0.3s, box-shadow 0.3s; /* Add transition for smooth hover effect */;
   }
   .experience-item:hover {
     background-color: rgba(240, 240, 240, 0.5); /* Highlight color on hover with transparency */
