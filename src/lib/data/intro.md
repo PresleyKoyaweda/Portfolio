@@ -51,7 +51,7 @@
     <img src="/PP.jpg" alt="Profile Picture" class="profile-pic">
   </div>
   <div class="about-text">
-    <p>Avec plus de quatre ans d'expérience en analyse de données et intelligence d'affaires, j'excelle dans l'automatisation des processus, la création de tableaux de bord interactifs (Power BI) et le développement de modèles analytiques avancés.</p>
-    <p>Je possède des compétences en machine learning, intelligence artificielle, ingénierie de données, visualisation de données et plateformes cloud. Actuellement, je recherche un stage pour appliquer et approfondir mes compétences en IA, science des données, machine learning, ingénierie de données et business intelligence, afin de contribuer à des projets innovants et ambitieux.</p>
+    <p>Avec plus de quatre ans d'expérience en analyse de données et en intelligence d'affaires, je maîtrise l'automatisation des processus, la création de tableaux de bord interactifs (Power BI), ainsi que le développement de modèles analytiques avancés.</p>
+    <p>Je dispose des compétences solides en machine learning, intelligence artificielle, ingénierie de données, MLOps, visualisation de données et plateformes cloud. Dans le cadre de l'obtention de mon diplôme, je suis actuellement à la recherche d'un stage me permettant d'appliquer et de renforcer mes compétences en IA, science des données, machine learning, ingénierie de données et business intelligence, tout en contribuant à des projets innovants et ambitieux.</p>
   </div>
 </div>

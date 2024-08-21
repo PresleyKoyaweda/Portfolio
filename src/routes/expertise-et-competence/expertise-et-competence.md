@@ -106,12 +106,13 @@
     </details>
   </div>
 
-  <div class="skill-item">
+ <div class="skill-item">
     <details>
-      <summary><span class="icon">🔄</span> Automatisation et Workflow</summary>
-      Utilisation de PowerAutomate, GitHub Actions et Docker pour automatiser les workflows et améliorer l'intégration continue et le déploiement continu (CI/CD).
+      <summary><span class="icon">🔄</span> MLOps</summary>
+      Utilisation de Docker, Kubernetes, GitHub Actions, et MLflow pour automatiser le déploiement de modèles de machine learning, gérer les pipelines de données et améliorer l'intégration continue et le déploiement continu (CI/CD) dans les projets d'apprentissage automatique.
     </details>
   </div>
+
 
   <div class="skill-item">
     <details>
