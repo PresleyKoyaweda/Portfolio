@@ -5,6 +5,8 @@ ___
 ___
 ## 📊 Analyse des Réseaux Sociaux - Détection de Communautés et Influenceurs
 
+**Affiliation :** Laboration du cours **Fouille des Données** à l'Ecole Polytechnique Montréal
+
 
 ## 🎯 Objectifs du Projet
 

@@ -5,6 +5,8 @@ ___
 ___
 ## 🐞 Détection de Rapports de Bogues Dupliqués
 
+**Affiliation :** Laboration du cours **Fouille des Données** à l'Ecole Polytechnique Montréal
+
 ## 🎯 Objectif
 L'objectif de ce projet était de développer un algorithme capable de détecter les rapports de bogues dupliqués dans un large ensemble de données de rapports de bogues. Ceci permet de réduire le temps et les efforts nécessaires pour résoudre les problèmes logiciels en évitant le traitement des rapports de bogues redondants.
 

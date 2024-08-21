@@ -28,7 +28,7 @@
   <div class="experience-item">
     <h3>Maverick Analytik, Magog, Québec, Canada</h3>
     <h4>Analyste en Intelligence d’Affaires</h4>
-    <p><strong>Depuis Janvier 2024</strong></p>
+    <p><strong>Depuis Janvier 2024 – Juin 2024 </strong></p>
     <ul>
       <li><strong>Automatisation des processus :</strong> Automatisation des processus d’extraction et de transformation de données.</li>
       <li><strong>Gestion des entrepôts de données :</strong> Gestion des entrepôts de données et création de tableaux de bord interactifs via Power BI.</li>
